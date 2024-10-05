@@ -1,0 +1,2 @@
+User: what is wrong with the patient?
+LLM: C. The patient is dehydrated

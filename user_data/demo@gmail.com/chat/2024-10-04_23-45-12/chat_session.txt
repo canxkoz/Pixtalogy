@@ -1,0 +1,2 @@
+User: what is wrong with thing the patient?
+LLM: C. he is having a stroke

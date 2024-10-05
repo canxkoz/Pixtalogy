@@ -1,0 +1,18 @@
+User uploaded an image. LLM: - **Image Type:** The image is a computed tomography (CT) scan of the brain.
+  
+- **Patient Information:** The patient's name is Sanaa Daowd, with a date of birth on February 23, 1973. The scan was conducted on February 23, 2015, at 9:09 AM.
+
+- **Hospital Details:** The scan was performed at Al Kindy Teaching Hospital, as indicated by the information at the top of the image.
+
+- **Clinical Findings:** There is a noticeable abnormality in the brain, likely an area of increased density in the right hemisphere, which could suggest a hemorrhage, mass, or other pathology.
+
+- **Technical Parameters:** The CT scan was performed using the following settings: 
+   - 20 IMA (Image Intensity)
+   - kV: 120
+   - mAs: 281
+   - SL: 5/p0.55/Fpr 10.5
+   - SP: 411.5
+   - W: 80
+   - C: 35
+
+These settings indicate the technical specifications used during the imaging process, including voltage, current, slice thickness, and reconstruction parameters.

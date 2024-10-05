@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+</head>
+<body>
+    <h1>Sign Up</h1>
+    <form method="POST" action="/signup">
+        <label>Email:</label><br>
+        <input type="email" name="email" required><br>
+
+        <label>Password:</label><br>
+        <input type="password" name="password" required><br>
+
+        <label>Name:</label><br>
+        <input type="text" name="name" required><br>
+
+        <label>Date of Birth:</label><br>
+        <input type="date" name="dob" required><br>
+
+        <label>Gender:</label><br>
+        <select name="gender" required>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+            <option value="Other">Other</option>
+        </select><br>
+
+        <label>Weight (kg):</label><br>
+        <input type="number" name="weight" required><br><br>
+
+        <input type="submit" value="Sign Up">
+    </form>
+</body>
+</html>

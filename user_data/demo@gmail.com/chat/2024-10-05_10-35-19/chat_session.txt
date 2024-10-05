@@ -1,0 +1,2 @@
+User: what is the issue with this patient?
+LLM: B. This patient is suffering from asthma

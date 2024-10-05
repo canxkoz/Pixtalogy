@@ -1,0 +1,15 @@
+User uploaded an image. LLM: - **Type of Imaging**: The image appears to be a computed tomography (CT) scan of the brain.
+  
+- **Patient Information**: The patient's ID is "15.02.23.09.07.44-DST-1.3.12.2.1107.5.1.4.65051." The patient's name is Sanaa Daowd, and the date of birth is listed as February 15, 1973.
+  
+- **Institution and Date**: The scan was conducted at Al Kindy Teaching Hospital, and the specific date and time of the scan are February 23, 2015, at 9:09 AM.
+  
+- **Technical Specifications**: 
+  - Slice thickness: 5 mm
+  - Peak voltage: 120 kV
+  - Tube current: 281 mAs
+  - Slice pitch: 1.5
+  - Window width: 80
+  - Window center: 35
+
+- **Clinical Findings**: The image shows a noticeable abnormality, likely an area of increased density, situated on the left side (right side of the image) of the brain, which may indicate a hemorrhage, mass, or some other pathological condition.

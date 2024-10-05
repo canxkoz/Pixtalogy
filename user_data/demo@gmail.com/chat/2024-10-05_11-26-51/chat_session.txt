@@ -1,0 +1,2 @@
+User: hello
+LLM: Hello! How can I assist you today? Let me know if you need help with something or just want to chat! 😊
