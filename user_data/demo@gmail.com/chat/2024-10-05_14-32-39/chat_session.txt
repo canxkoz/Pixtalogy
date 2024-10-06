@@ -1,0 +1,2 @@
+User: who are u?
+LLM: I am a language model trained by the Mistral AI team. I'm designed to understand and generate human-like text based on the input I receive. I'm here to help answer questions, provide information, or just chat if you'd like! How can I assist you today?

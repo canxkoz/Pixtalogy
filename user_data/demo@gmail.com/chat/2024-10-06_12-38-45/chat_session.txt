@@ -1,0 +1,36 @@
+User: help me understanding my blood report
+LLM: I'd be happy to help you understand your blood report. Please provide me with the details of the report, such as the parameters tested, their reference ranges, and your results. Here's how you can format the information:
+
+```
+Parameter Name | Your Result | Reference Range
+---------------------------------------------
+Parameter 1   | Result 1    | Ref. Range 1
+Parameter 2   | Result 2    | Ref. Range 2
+...
+```
+
+Once you provide the information, I can help you interpret the results based on the reference ranges. If you have any specific concerns or questions about certain parameters, let me know, and I'll focus on those as well.
+
+Here are some common parameters found in blood reports and their general meanings:
+
+1. **Complete Blood Count (CBC)**
+   - White Blood Cells (WBC) / Leukocytes: Helps diagnose infections, allergies, and leukemia.
+   - Red Blood Cells (RBC) / Erythrocytes: Helps diagnose anemia and other blood disorders.
+   - Hemoglobin (Hb) & Hematocrit (Hct): Oxygen-carrying proteins and the proportion of red blood cells in the blood, respectively.
+   - Platelets: Helps in blood clotting.
+
+2. **Blood Chemistry**
+   - Glucose: Sugar level in the blood, important for diagnosing diabetes.
+   - Cholesterol (Total, LDL, HDL): Important for heart health and diagnosing lipid disorders.
+   - Triglycerides: Another type of fat in the blood, important for heart health.
+   - Electrolytes (Sodium, Potassium, Chloride): Essential minerals for various bodily functions.
+
+3. **Liver Function Tests (LFTs)**
+   - Alanine Aminotransferase (ALT) & Aspartate Aminotransferase (AST): Enzymes that help diagnose liver diseases.
+   - Alkaline Phosphatase (ALP): An enzyme that can be elevated in liver or bone diseases.
+   - Bilirubin: A waste product that can indicate liver or gallbladder problems.
+
+4. **Kidney Function Tests**
+   - Blood Urea Nitrogen (BUN) & Creatinine: Waste products filtered by the kidneys, important for diagnosing kidney diseases.
+
+Once you provide your blood report details, I can give you more specific advice.

@@ -1,0 +1,23 @@
+User: hi
+LLM: Certainly! Please provide the specific case details or questions you have related to radiology. Here's the structured format you can follow to share the relevant information:
+
+### Patient Information:
+- **Age:**
+- **Gender:**
+- **Medical History (if any):**
+
+### Symptoms:
+- **Duration of Symptoms:**
+- **Nature of Symptoms:**
+- **Associated Symptoms (if any):**
+
+### Imaging Reports:
+- **Type of Imaging (e.g., X-ray, MRI, CT scan):**
+- **Body Part Imaged:**
+- **Date of Imaging:**
+- **Key Findings (if available):**
+
+### Clinical Question or Concern:
+- **Your specific question or concern related to the imaging or patient symptoms.**
+
+Once you provide these details, I'll be able to assist you effectively.

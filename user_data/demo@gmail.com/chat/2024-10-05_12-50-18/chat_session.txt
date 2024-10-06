@@ -1,0 +1,2 @@
+User: hello
+LLM: {"response": "Hi there! How are you today? How can I assist you? If you have any questions or need help with something, feel free to let me know!"}

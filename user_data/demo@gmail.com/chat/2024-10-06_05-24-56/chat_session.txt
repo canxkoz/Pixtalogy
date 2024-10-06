@@ -1,0 +1,2 @@
+User: hello
+LLM: Hello! As a radiologist assistant, I'm here to help. Please provide me with more context or specific information about what you need assistance with. For example, you might have a medical question, need help interpreting radiology reports, or want to know more about specific imaging techniques or conditions. The more details you provide, the better I can assist you.

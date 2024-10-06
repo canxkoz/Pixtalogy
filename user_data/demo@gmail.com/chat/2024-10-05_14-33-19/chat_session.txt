@@ -1,0 +1,14 @@
+User: what experties do u have?
+LLM: I can assist with a wide range of topics and tasks, including but not limited to:
+
+1. **Answering Questions**: Providing information on a variety of subjects.
+2. **Explaining Concepts**: Clarifying complex ideas in simple terms.
+3. **Writing Assistance**: Help with writing essays, reports, or creative content.
+4. **Language Translation**: Translating phrases or sentences from one language to another.
+5. **Programming Help**: Offering advice and code snippets for various programming tasks.
+6. **General Advice**: Offering tips and suggestions on a variety of topics.
+7. **Trivia and Fun Facts**: Sharing interesting information on diverse subjects.
+8. **Learning and Education**: Assisting with homework and study tips.
+9. **Current Events**: Providing information on recent news and events.
+
+How can I assist you today?

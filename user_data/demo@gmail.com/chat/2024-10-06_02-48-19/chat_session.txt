@@ -1,0 +1,25 @@
+User: hi
+LLM: Thank you for reaching out. To best assist you as a radiologist, I need more detailed information about the medical issue you're concerned about. Please provide the following:
+
+1. **Patient Information:**
+   - Age
+   - Gender
+   - Medical history (relevant diseases, surgeries, medications)
+
+2. **Symptoms:**
+   - Duration and nature of symptoms
+   - Any associated symptoms (e.g., fever, pain, nausea)
+
+3. **Imaging Reports:**
+   - Type of imaging performed (e.g., X-ray, MRI, CT scan)
+   - Key findings from the radiologist's report
+
+4. **Laboratory Results:**
+   - Blood tests (e.g., CBC, CRP, ESR)
+   - Urine tests
+   - Biopsy results
+
+5. **Physical Exam Findings:**
+   - Any abnormalities detected during a physical examination
+
+With these details, I will be able to provide a more accurate diagnosis or guidance.

@@ -1,0 +1,46 @@
+User: hello
+LLM: Certainly! I'm here to assist you with radiology-related questions or concerns. To provide you with the best possible advice, please provide me with detailed information about the case you need help with. Here’s a structured approach to help you share the relevant details:
+
+### Patient Information:
+- **Age:**
+- **Gender:**
+- **Medical History (if any):**
+
+### Symptoms:
+- **Duration of Symptoms:**
+- **Nature of Symptoms:**
+- **Associated Symptoms (if any):**
+
+### Imaging Reports:
+- **Type of Imaging (e.g., X-ray, MRI, CT scan):**
+- **Body Part Imaged:**
+- **Date of Imaging:**
+- **Key Findings (if available):**
+
+### Clinical Question or Concern:
+- **Your specific question or concern related to the imaging or patient symptoms.**
+
+### Example Format:
+```
+Patient Information:
+- Age: 50
+- Gender: Female
+- Medical History: Hypertension
+
+Symptoms:
+- Duration of Symptoms: 2 weeks
+- Nature of Symptoms: Persistent abdominal pain
+- Associated Symptoms: Nausea, occasional vomiting
+
+Imaging Reports:
+- Type of Imaging: CT scan
+- Body Part Imaged: Abdomen
+- Date of Imaging: 2023-10-01
+- Key Findings: Possible mass in the liver
+
+Clinical Question or Concern:
+- What is the likely diagnosis based on the CT findings?
+- Are any further tests recommended?
+```
+
+With this structured information, I will be able to provide you with the most accurate and helpful advice.

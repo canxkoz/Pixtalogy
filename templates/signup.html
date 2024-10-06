@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            display: flex;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(to bottom, #ffffff, #f4f4f9); /* Horizon gradient background */
+            overflow: hidden; /* Prevents scrolling */
+        }
+        .section {
+            width: 33.33%; /* Each section takes one-third of the width */
+            height: 100vh;
+            position: relative; /* Allows for absolute positioning of child elements */
+        }
+        .left-section {
+            display: flex;
+            justify-content: center; /* Center content horizontally */
+            align-items: flex-start; /* Align content to the top */
+            flex-direction: column; /* Stack logo and login vertically */
+            padding-top: 20px; /* Adjust padding from the top */
+            padding-left: 10px; /* Add left padding for aesthetics */
+        }
+        .middle-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center; /* Center contents vertically */
+            text-align: center; /* Center text alignment */
+            padding: 0 20px; /* Remove vertical padding */
+            margin-top: 20px; /* Margin for spacing */
+        }
+        .right-section {
+            width: 40%; /* Adjust width as necessary */
+            height: 100vh;
+            background: url('{{ url_for('static', filename='background6.jpg') }}') no-repeat center center; /* Right section background */
+            background-size: cover; /* Ensures the background image covers the right section */
+        }
+        .signup-container {
+            background-color: rgba(255, 255, 255, 0.9); /* Slight transparency */
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            width: 350px;
+            text-align: left; /* Align text to the left */
+        }
+        h1 {
+            margin: 0 0 20px;
+            font-size: 24px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        input[type="email"],
+        input[type="password"],
+        input[type="text"],
+        input[type="date"],
+        input[type="number"],
+        select {
+            width: 100%;
+            padding: 12px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            font-size: 16px;
+        }
+        input[type="submit"] {
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            background-color: #28a745;
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        input[type="submit"]:hover {
+            background-color: #218838;
+        }
+        .login {
+            margin-top: 20px;
+            font-size: 14px;
+        }
+        .login a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        /* Logo positioning */
+        .logo {
+             /* Position the logo absolutely */
+            top: 0px; /* Move logo down from the top */
+            left: 0px; /* Move logo from the left */
+            z-index: 4; /* Ensure it appears above other content */
+            width: 60px; /* Adjust logo size to make it smaller */
+            height: auto; /* Maintain aspect ratio */
+        }
+        /* Tagline in middle section */
+        .tagline {
+            color: #333; /* Dark text color for the tagline */
+            font-size: 24px; /* Font size for the tagline */
+            margin: 20px 0; /* Margin for spacing */
+        }
+        .highlight {
+            color: #007BFF; /* Light blue for highlighted words */
+            font-weight: bold; /* Bold text */
+        }
+        /* Advertisement strip at the bottom */
+        .advertisement-strip {
+            position: absolute;
+            bottom: 0; /* Position the advertisement strip at the bottom */
+            left: 0; /* Start from the left */
+            width: 100%; /* Full width */
+            background-color: #007BFF; /* Dark background for the advertisement strip */
+            padding: 10px 0; /* Padding for better spacing */
+            color: #ffffff; /* Light color for advertisement text */
+            overflow: hidden; /* Prevents overflow of the text */
+            white-space: nowrap; /* Prevent line breaks */
+            z-index: 10; /* Make sure it's above other elements */
+        }
+        .advertisement {
+            display: inline-block; /* Inline block for scrolling effect */
+            animation: scroll 15s linear infinite; /* Animate the scrolling */
+            font-size: 16px; /* Font size for advertisement */
+            padding: 10px; /* Padding for better spacing */
+        }
+        @keyframes scroll {
+            0% { transform: translateX(100%); } /* Start from the right */
+            100% { transform: translateX(-100%); } /* Move to the left */
+        }
+    </style>
+</head>
+<body>
+   
+    <div class="section left-section">
+        <div class="signup-container">
+            <h1>Sign Up</h1>
+            <form method="POST" action="/signup">
+                <label>Email:</label>
+                <input type="email" name="email" required>
+                
+                <label>Password:</label>
+                <input type="password" name="password" required>
+                
+                <label>Name:</label>
+                <input type="text" name="name" required>
+                
+                <label>Date of Birth:</label>
+                <input type="date" name="dob" required>
+                
+                <label>Gender:</label>
+                <select name="gender" required>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                    <option value="Other">Other</option>
+                </select>
+
+                <label>Weight (kg):</label>
+                <input type="number" name="weight" required>
+                
+                <input type="submit" value="Sign Up">
+            </form>
+            <div class="login">
+                Already have an account? <a href="/login">Login here!</a>
+            </div>
+        </div>
+    </div>
+    <div class="section middle-section">
+        <img src="{{ url_for('static', filename='logo3.png') }}" alt="Logo">
+        <div class="tagline">
+            <span>Join <span class="highlight">Pixtralogist</span>: </span>
+            <span>AI</span>-powered healthcare for a brighter, healthier future.
+        </div>
+        
+           
+        
+    </div>
+    <div class="section right-section"></div>
+    <div class="advertisement-strip">
+        <div class="advertisement">
+            Join now and get access to cutting-edge healthcare solutions tailored just for you! &nbsp;
+            Experience precision care and expert advice with a click. &nbsp; Sign up today!
+        </div>
+    </div>
+</body>
+</html>

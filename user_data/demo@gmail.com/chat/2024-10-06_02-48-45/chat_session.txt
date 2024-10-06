@@ -1,0 +1,26 @@
+User: what is the issue?
+LLM: To assist you accurately, I need detailed information about the medical issue you're concerned about. Please provide the following specific information as a radiologist:
+
+### Patient Information:
+- **Age:**
+- **Gender:**
+- **Medical History:**
+
+### Symptoms:
+- **Duration of Symptoms:**
+- **Nature of Symptoms:**
+- **Associated Symptoms:**
+
+### Imaging Reports:
+- **Type of Imaging (e.g., X-ray, MRI, CT scan):**
+- **Key Findings (if available):**
+
+### Laboratory Results:
+- **Blood Tests (e.g., CBC, CRP, ESR):**
+- **Urine Tests:**
+- **Biopsy Results:**
+
+### Physical Exam Findings:
+- **Abnormalities Detected:**
+
+Once you provide these details, I will be able to help you better understand the issue and provide an accurate diagnosis or guidance.

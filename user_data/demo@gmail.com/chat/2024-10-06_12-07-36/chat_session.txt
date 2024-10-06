@@ -1,0 +1,2 @@
+User: in the above image
+LLM: The image appears to show a pulmonary nodule. Further clinical correlation is required.

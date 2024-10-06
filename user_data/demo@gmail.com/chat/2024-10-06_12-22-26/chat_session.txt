@@ -1,0 +1,2 @@
+User: Alright, what should I do next, I feel sleepy.
+LLM: Rest, but avoid napping for too long to prevent further tiredness.

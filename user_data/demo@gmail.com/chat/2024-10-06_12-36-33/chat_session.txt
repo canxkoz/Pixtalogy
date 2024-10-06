@@ -1,0 +1,2 @@
+User: hello
+LLM: Hello! Please share the details of your blood report and any prescriptions you have. I'll evaluate them and provide guidance accordingly.

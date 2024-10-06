@@ -1,0 +1,28 @@
+User: hello
+LLM: Thank you for your message, but it looks like you haven't provided any specific medical information or details for me to assist you with. To help you effectively, I need more information about the medical issue or case you are referring to.
+
+Please provide details such as patient information, symptoms, imaging reports, laboratory results, or physical exam findings. Here’s a template you can follow:
+
+### Patient Information:
+- **Age:**
+- **Gender:**
+- **Medical History:**
+
+### Symptoms:
+- **Duration of Symptoms:**
+- **Nature of Symptoms:**
+- **Associated Symptoms:**
+
+### Imaging Reports:
+- **Type of Imaging:**
+- **Key Findings:**
+
+### Laboratory Results:
+- **Blood Tests (e.g., CBC, CRP, ESR):**
+- **Urine Tests:**
+- **Biopsy Results:**
+
+### Physical Exam Findings:
+- **Abnormalities Detected:**
+
+With this information, I can offer a more accurate diagnosis or assistance.

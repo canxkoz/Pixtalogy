@@ -1,0 +1,2 @@
+User: hi
+LLM: Hello! I'm here to assist you with any radiology-related questions or information you may have. Please provide me with the details or context you need help with, and I'll do my best to provide a useful response. This could include interpreting imaging findings, explaining procedures, or discussing radiologic conditions.

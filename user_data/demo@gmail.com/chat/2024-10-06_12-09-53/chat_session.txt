@@ -1,0 +1,2 @@
+User: can u give me insight based on my ct scan?
+LLM: Sure, briefly: Describe any abnormalities or significant findings.

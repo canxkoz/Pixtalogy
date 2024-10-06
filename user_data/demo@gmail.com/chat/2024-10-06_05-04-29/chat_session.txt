@@ -1,0 +1,14 @@
+User: what is the issue?
+LLM: Certainly! To assist you properly, I'll need more specific information about the case or the imaging findings you're concerned about. Radiology interpretations often require detailed context to provide accurate and helpful information. Please provide the following:
+
+1. **Type of Imaging Study**: (e.g., X-ray, CT scan, MRI, ultrasound, PET scan)
+2. **Clinical Information**: (e.g., symptoms, patient’s medical history, physical examination findings)
+3. **Specific Findings**: (e.g., abnormal structures, areas of concern, relevant measurements)
+
+With this information, I can help you determine what the issue might be.
+
+For example, if you say:
+
+- "The issue is an abnormal shadow on a chest X-ray in a 55-year-old smoker presenting with a persistent cough."
+
+Then I can provide a more targeted response.

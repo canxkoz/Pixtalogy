@@ -1,0 +1,4 @@
+User: issue?
+LLM: Certainly! If you provide me with more specific details about the issue or case you're referring to, I can offer more targeted assistance. For example, are you dealing with a particular imaging study (like an X-ray, CT scan, MRI, or ultrasound), a diagnostic challenge, a procedural question, or something else?
+
+If you can provide more context or details, I'd be happy to help!

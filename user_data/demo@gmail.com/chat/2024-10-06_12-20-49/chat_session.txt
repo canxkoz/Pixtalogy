@@ -1,0 +1,2 @@
+User: I am feeling very low today.. I failed an exam today.. I am feeling very sad.. can u help me?
+LLM: I'm really sorry to hear that. It's okay to feel upset, but remember, one exam doesn't define you. Would you like some strategies to cope?

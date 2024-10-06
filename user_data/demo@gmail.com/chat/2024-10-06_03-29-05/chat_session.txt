@@ -1,0 +1,31 @@
+User: hello
+LLM: I'm here to help! To assist you with a radiology-related issue, I'll need some specific information. Please provide as much detail as possible, including patient information, symptoms, imaging reports, and any clinical concerns you have. Here's a template to guide you:
+
+### Patient Information:
+- **Age:**
+- **Gender:**
+- **Medical History:**
+
+### Symptoms:
+- **Duration of Symptoms:**
+- **Nature of Symptoms:**
+- **Associated Symptoms:**
+
+### Imaging Reports:
+- **Type of Imaging (e.g., X-ray, MRI, CT scan):**
+- **Body Part Imaged:**
+- **Date of Imaging:**
+- **Key Findings (if available):**
+
+### Laboratory Results:
+- **Blood Tests (e.g., CBC, CRP, ESR):**
+- **Urine Tests:**
+- **Biopsy Results:**
+
+### Physical Exam Findings:
+- **Abnormalities Detected:**
+
+### Clinical Question or Concern:
+- **Your specific question or concern related to the imaging or patient symptoms.**
+
+Once you provide these details, I will be able to offer more accurate advice or guidance tailored to the case.

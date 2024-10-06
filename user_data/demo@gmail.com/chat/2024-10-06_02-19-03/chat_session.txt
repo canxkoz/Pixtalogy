@@ -1,0 +1,25 @@
+User: hi
+LLM: I'm here to assist you with your medical concerns or queries, but I'll need more specific information to provide accurate help. Since you've only said "hi," please provide additional details such as:
+
+1. **Patient Information:**
+   - Age
+   - Gender
+   - Medical history (relevant diseases, surgeries, medications)
+
+2. **Symptoms:**
+   - Duration and nature of symptoms
+   - Any associated symptoms (e.g., fever, pain, nausea)
+
+3. **Imaging Reports:**
+   - Type of imaging performed (e.g., X-ray, MRI, CT scan)
+   - Key findings from the radiologist's report
+
+4. **Laboratory Results:**
+   - Blood tests (e.g., CBC, CRP, ESR)
+   - Urine tests
+   - Biopsy results
+
+5. **Physical Exam Findings:**
+   - Any abnormalities detected during a physical examination
+
+Once you provide these details, I can offer a more accurate diagnosis or assistance.

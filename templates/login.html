@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            display: flex;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(to bottom, #ffffff, #f4f4f9); /* Horizon gradient background */
+            overflow: hidden; /* Prevents scrolling */
+        }
+        .section {
+            width: 33.33%; /* Each section takes one-third of the width */
+            height: 100vh;
+            position: relative; /* Allows for absolute positioning of child elements */
+        }
+        .left-section {
+            display: flex;
+            justify-content: center; /* Center content horizontally */
+            align-items: flex-start; /* Align content to the top */
+            flex-direction: column; /* Stack logo and login vertically */
+            padding-top: 20px; /* Adjust padding from the top */
+            padding-left: 10px; /* Add left padding for aesthetics */
+        }
+        .middle-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center; /* Center contents vertically */
+            text-align: center; /* Center text alignment */
+            padding: 0 20px; /* Remove vertical padding */
+            margin-top: 20px; /* Margin for spacing */
+        }
+        .right-section {
+            width: 40%; /* Adjust width as necessary */
+            height: 100vh;
+            background: url('{{ url_for('static', filename='background6.jpg') }}') no-repeat center center; /* Right section background */
+            background-size: cover; /* Ensures the background image covers the right section */
+        }
+        .tagline {
+            color: #333; /* Dark text color for the tagline */
+            font-size: 24px; /* Font size for the tagline */
+            margin: 20px 0; /* Margin for spacing */
+        }
+        .highlight {
+            color: #007BFF; /* Light blue for highlighted words */
+            font-weight: bold; /* Bold text */
+        }
+        .login-container {
+            background-color: rgba(255, 255, 255, 0.9); /* Slight transparency */
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            width: 350px;
+            text-align: left; /* Align text to the left */
+        }
+        h1 {
+            margin: 0 0 20px;
+            font-size: 24px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        input[type="email"],
+        input[type="password"] {
+            width: 100%;
+            padding: 12px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            font-size: 16px;
+        }
+        input[type="submit"] {
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            background-color: #007BFF;
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+        .signup {
+            margin-top: 20px;
+            font-size: 14px;
+        }
+        .signup a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        /* Logo positioning */
+        .logo {
+            position: absolute; /* Position the logo absolutely */
+            top: 10px; /* Move logo down from the top */
+            left: 10px; /* Move logo from the left */
+            z-index: 4; /* Ensure it appears above other content */
+            width: 60px; /* Adjust logo size to make it smaller */
+            height: auto; /* Maintain aspect ratio */
+        }
+        /* Advertisement strip at the bottom */
+        .advertisement-strip {
+            position: absolute;
+            bottom: 0; /* Position the advertisement strip at the bottom */
+            left: 0; /* Start from the left */
+            width: 100%; /* Full width */
+            background-color: #007BFF; /* Dark background for the advertisement strip */
+            padding: 10px 0; /* Padding for better spacing */
+            color: #ffffff; /* Light color for advertisement text */
+            overflow: hidden; /* Prevents overflow of the text */
+            white-space: nowrap; /* Prevent line breaks */
+            z-index: 10; /* Make sure it's above other elements */
+        }
+        .advertisement {
+            display: inline-block; /* Inline block for scrolling effect */
+            animation: scroll 15s linear infinite; /* Animate the scrolling */
+            font-size: 16px; /* Font size for advertisement */
+            padding: 10px; /* Padding for better spacing */
+        }
+        @keyframes scroll {
+            0% { transform: translateX(100%); } /* Start from the right */
+            100% { transform: translateX(-100%); } /* Move to the left */
+        }
+    </style>
+</head>
+<body>
+    <div class="logo">
+        <img src="{{ url_for('static', filename='logo3.png') }}" alt="Logo">
+    </div>
+    <div class="section left-section">
+        <div class="login-container">
+            <h1>Login</h1>
+            <form method="POST" action="/login">
+                <label>Email:</label>
+                <input type="email" name="email" required>
+                
+                <label>Password:</label>
+                <input type="password" name="password" required>
+                
+                <input type="submit" value="Login">
+            </form>
+            <div class="signup">
+                New member? <a href="/signup">Sign up!</a>
+            </div>
+        </div>
+    </div>
+    <div class="section middle-section">
+        <div class="tagline">
+            <span>Meet <span class="highlight">Pixtralogist</span>: </span>
+            <span class="highlight">AI</span>-driven healthcare, simplified. 
+            <span>Enhance diagnostics with precision and ease.</span>
+        </div>
+    </div>
+    <div class="section right-section"></div>
+    <div class="advertisement-strip">
+        <div class="advertisement">
+            Take advantage of our exclusive offer and get 20% off on your first consultation! &nbsp; 
+            Whether you're seeking expert medical advice or personalized health solutions, &nbsp; 
+            now is the perfect time to start your journey toward better health. &nbsp; 
+            Book your appointment today and experience professional care at a great price!
+        </div>
+    </div>
+</body>
+</html>

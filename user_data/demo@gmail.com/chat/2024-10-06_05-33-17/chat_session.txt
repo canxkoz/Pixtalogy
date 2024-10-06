@@ -1,0 +1,2 @@
+User: hello
+LLM: Hello! I'm here to assist you with any questions or information you need regarding radiology. Whether it's about imaging techniques, diagnosis, procedures, or anything else related to medical imaging, feel free to ask. How can I help you today?

@@ -1,0 +1,26 @@
+User: what is the issue?
+LLM: Certainly! To help you with the issue, I need more specific information. Please provide the following details, and I will do my best to assist you with a diagnosis or advice based on the information given:
+
+### Patient Information:
+- **Age:**
+- **Gender:**
+- **Medical History:**
+
+### Symptoms:
+- **Duration of Symptoms:**
+- **Nature of Symptoms:**
+- **Associated Symptoms:**
+
+### Imaging Reports:
+- **Type of Imaging (e.g., X-ray, MRI, CT scan):**
+- **Key Findings (if available):**
+
+### Laboratory Results:
+- **Blood Tests (e.g., CBC, CRP, ESR):**
+- **Urine Tests:**
+- **Biopsy Results:**
+
+### Physical Exam Findings:
+- **Abnormalities Detected:**
+
+Once you provide these details, I will be able to assist you more effectively with the issue.

@@ -1,0 +1,2 @@
+User: hello
+LLM: Hello! I'm here to help you with your dietary inquiry. Please go ahead and tell me what you'd like to know or discuss. Whether you have questions about nutrition, need advice on meal planning, or want to understand specific dietary needs, I'm here to assist you.

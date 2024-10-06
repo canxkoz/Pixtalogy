@@ -1,0 +1,2 @@
+User: based on the CT scan what is the issue?
+LLM: Please upload the CT scan image for a detailed analysis within the character limit.

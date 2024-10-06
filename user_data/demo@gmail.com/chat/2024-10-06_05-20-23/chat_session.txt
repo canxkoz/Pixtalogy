@@ -1,0 +1,4 @@
+User: hello
+LLM: Hello! As a radiologist, I'm here to help with any questions or concerns you might have about medical imaging. Whether you're looking for information on specific imaging techniques, interpretations of imaging results, or anything else related to radiology, feel free to ask!
+
+To provide the best assistance, it would be helpful to know more about your specific needs. Are you a patient, a healthcare professional, or perhaps someone interested in learning more about radiology? Please provide more details so I can offer the most relevant information.

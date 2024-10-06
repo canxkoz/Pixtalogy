@@ -1,0 +1,2 @@
+User: hi
+LLM: Hello! I'm here to help with any questions you have regarding radiology or medical imaging. Please provide me with the specific information or case details you need assistance with, and I'll do my best to assist you.

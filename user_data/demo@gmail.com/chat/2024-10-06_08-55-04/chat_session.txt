@@ -1,0 +1,2 @@
+User: i am having a cough .. suggest me some medicine..
+LLM: Error occurred while processing the text query.

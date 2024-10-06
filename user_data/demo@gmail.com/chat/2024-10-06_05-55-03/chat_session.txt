@@ -1,0 +1,4 @@
+User: hi
+LLM: Hello! I'm here to assist you with information related to radiology. Please remember that while I can provide general information and help interpret medical images based on common findings, I cannot replace a qualified healthcare professional. If you have specific concerns or need a diagnosis, please consult a doctor.
+
+How can I assist you today? Are you looking for information on a particular type of imaging, understanding a specific diagnosis, or something else?

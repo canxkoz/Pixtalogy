@@ -1,0 +1,6 @@
+User: what was my symptoms?
+LLM: Your symptoms include:
+
+1. **Cough**
+2. **Pain in the stomach**
+3. **Vomiting**

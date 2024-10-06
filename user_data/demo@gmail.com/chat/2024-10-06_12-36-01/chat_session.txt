@@ -1,0 +1,2 @@
+User: evaluate the above blood report
+LLM: I need the actual blood report details to provide an evaluation. Please provide the specific parameters and their respective values from your blood test.

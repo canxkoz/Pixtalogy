@@ -1,0 +1,6 @@
+User: provide the Diagnosis report
+LLM: **Diagnosis Report:**
+
+- Left ventricular hypertrophy
+- Mild aortic valve calcification
+- No acute pathology

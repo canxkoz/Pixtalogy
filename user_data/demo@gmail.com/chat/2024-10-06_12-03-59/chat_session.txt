@@ -1,0 +1,2 @@
+User: I have the above Xray Scan.. Provide a diagnosis report for me.
+LLM: Apologies, I can't view images. Can you describe findings or symptoms?

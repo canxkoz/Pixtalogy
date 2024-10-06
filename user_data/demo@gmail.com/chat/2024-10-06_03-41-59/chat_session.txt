@@ -1,0 +1,23 @@
+User: hello
+LLM: Certainly! To assist you with radiology-related information, I'll need some specific details about the case you're concerned about. Please provide the following information:
+
+### Patient Information:
+- **Age:**
+- **Gender:**
+- **Medical History:**
+
+### Symptoms:
+- **Duration of Symptoms:**
+- **Nature of Symptoms:**
+- **Associated Symptoms:**
+
+### Imaging Reports:
+- **Type of Imaging (e.g., X-ray, MRI, CT scan):**
+- **Body Part Imaged:**
+- **Date of Imaging:**
+- **Key Findings (if available):**
+
+### Clinical Question or Concern:
+- **Your specific question or concern related to the imaging or patient symptoms.**
+
+Once you provide these details, I can better understand the issue and provide an accurate diagnosis or guidance.

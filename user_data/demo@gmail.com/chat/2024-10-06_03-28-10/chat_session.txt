@@ -1,0 +1,23 @@
+User: hello
+LLM: Certainly! As a radiologist, I can assist you with interpreting imaging results and providing medical advice based on the information you provide. However, I need more specific details about the case or the imaging findings to offer a meaningful diagnosis or guidance. Please provide the following information:
+
+### Patient Information:
+- **Age:**
+- **Gender:**
+- **Medical History:**
+
+### Symptoms:
+- **Duration of Symptoms:**
+- **Nature of Symptoms:**
+- **Associated Symptoms:**
+
+### Imaging Information:
+- **Type of Imaging (e.g., X-ray, MRI, CT scan):**
+- **Body Part Imaged:**
+- **Date of Imaging:**
+- **Radiologist's Report (if available):**
+
+### Clinical Question or Concern:
+- **Your specific question or concern related to the imaging or patient symptoms.**
+
+With these details, I will be able to provide a more accurate diagnosis or advice.

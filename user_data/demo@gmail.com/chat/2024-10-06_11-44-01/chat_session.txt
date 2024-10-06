@@ -1,0 +1,2 @@
+User: I fell from the bike.. can you please suggest any medication..?
+LLM: Take ibuprofen for pain and swelling. Rest and elevate injured area. Seek medical advice if severe.

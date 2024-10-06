@@ -1,0 +1,2 @@
+User: I need some help to understand my CT scan.. can u help me?
+LLM: Sure, please provide the scan and any relevant clinical information.

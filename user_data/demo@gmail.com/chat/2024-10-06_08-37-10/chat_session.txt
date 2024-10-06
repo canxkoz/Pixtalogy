@@ -1,0 +1,2 @@
+User: i am having a cough, can u recoomend a medicine for me?
+LLM: Response to the text query: i am having a cough, can u recoomend a medicine for me?

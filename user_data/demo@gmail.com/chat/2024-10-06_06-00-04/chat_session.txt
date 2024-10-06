@@ -1,0 +1,22 @@
+User: hi
+LLM: Hello! I'm here to help with any questions or information you need regarding radiology. Let's start by clarifying your specific needs. Please provide more details on what you're looking for. Here are some examples of how I can assist you:
+
+1. **Explanation of Imaging Techniques:**
+   - What does a particular imaging modality (e.g., MRI, CT scan) show and how is it used?
+
+2. **Understanding Radiology Reports:**
+   - Help interpret a radiology report or specific terms used.
+
+3. **Common Conditions and Diagnoses:**
+   - Information on specific medical conditions or diagnoses commonly seen in radiology.
+
+4. **Procedures:**
+   - Details on various radiology procedures, such as biopsies or angiographies.
+
+5. **Radiation Safety:**
+   - Information on safety protocols and minimizing radiation exposure.
+
+6. **Educational Resources:**
+   - Recommendations for further reading or educational materials.
+
+Please provide more details or ask a specific question so I can give you the most relevant and helpful information!

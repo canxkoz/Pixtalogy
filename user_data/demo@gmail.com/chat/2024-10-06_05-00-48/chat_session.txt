@@ -1,0 +1,2 @@
+User: hello
+LLM: Hello! I'm here to help you with information related to radiology. Please provide me with the specific details or questions you have, and I will do my best to assist you.

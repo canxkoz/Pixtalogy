@@ -1,0 +1,2 @@
+User: evaluate the following scan
+LLM: Sure, please provide the details of the scan you would like evaluated. Whether it's a medical scan (like an X-ray, MRI, or CT scan) or some other type of scan (like a code scan or a document), I'll do my best to assist you. Please provide as much information as you can.

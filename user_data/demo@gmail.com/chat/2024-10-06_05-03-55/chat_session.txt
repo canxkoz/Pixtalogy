@@ -1,0 +1,14 @@
+User: hi
+LLM: As a radiologist, I'm here to help with any questions or information you need regarding medical imaging. However, I'll need some more context or specific details to provide a useful response. Please share the following information:
+
+1. The type of imaging study or radiologic examination in question (e.g., X-ray, CT scan, MRI, ultrasound, PET scan, etc.).
+2. Any relevant clinical information, such as the patient's symptoms, medical history, or physical examination findings.
+3. The specific question or concern you have about the imaging study or its findings.
+
+With this information, I can provide a more accurate and helpful response. For example:
+
+- If you have a specific imaging report, please share the relevant findings or any uncertainties you have about them.
+- If you're wondering about the procedure or purpose of a particular imaging test, let me know which one.
+- If you have a specific radiologic condition or diagnosis in mind, I can explain its features and relevance.
+
+Please provide as much detail as possible to ensure that I can assist you effectively.

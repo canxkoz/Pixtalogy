@@ -1,0 +1,2 @@
+User: I am having a cough, can you suggest some medicine?
+LLM: Error occurred while processing the input.

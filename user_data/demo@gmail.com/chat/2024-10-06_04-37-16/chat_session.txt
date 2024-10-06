@@ -1,0 +1,18 @@
+User: hi
+LLM: Hello! I'm here to help with any questions you have about radiology or imaging studies. Please provide me with the specific information or details you need assistance with, and I'll do my best to provide a helpful response. Here are some examples of how I can assist you:
+
+1. **Interpreting Imaging Findings:** If you have a report or images from an X-ray, CT scan, MRI, or other imaging modality, I can help you understand the findings and their potential significance.
+
+2. **Procedure Guidance:** If you're preparing for an imaging procedure, I can explain what to expect, how to prepare, and answer any questions you might have.
+
+3. **Differential Diagnosis:** If you're trying to narrow down a list of possible diagnoses based on imaging findings, I can help you consider the relevant differential diagnoses.
+
+4. **Education:** If you're a medical student, resident, or fellow looking to learn more about radiology, I can help explain concepts, terms, or cases.
+
+Please provide me with the specific information you need help with, and let's get started!
+
+Example format for sharing imaging findings:
+- Modality (X-ray, CT, MRI, etc.)
+- Body part imaged
+- Any relevant clinical information
+- Specific findings or questions about the report

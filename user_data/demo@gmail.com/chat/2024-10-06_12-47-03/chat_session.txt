@@ -1,0 +1,43 @@
+User: give me a recipie for the me for lunch with low caloery count
+LLM: Certainly! Here's a simple and delicious low-calorie lunch recipe for you:
+
+### **Grilled Chicken Salad with Lemon Vinaigrette**
+
+#### **Ingredients:**
+- **Salad:**
+  - 3 oz (85g) grilled chicken breast
+  - 2 cups mixed greens (e.g., spinach, kale, arugula)
+  - 1/2 cup cherry tomatoes, halved
+  - 1/4 cup cucumber, sliced
+  - 1/4 cup bell pepper, sliced
+  - 1/4 cup shredded carrots
+  - 2 tbsp sliced red onion
+
+- **Lemon Vinaigrette:**
+  - 1 tbsp olive oil
+  - 1 tbsp lemon juice
+  - 1 tsp honey or maple syrup
+  - 1 tsp Dijon mustard
+  - Salt and pepper to taste
+
+#### **Instructions:**
+
+1. **Prepare the Lemon Vinaigrette:**
+   - In a small bowl, whisk together the olive oil, lemon juice, honey or maple syrup, Dijon mustard, salt, and pepper. Set aside.
+
+2. **Prepare the Salad:**
+   - In a large bowl, combine the mixed greens, cherry tomatoes, cucumber, bell pepper, shredded carrots, and red onion.
+
+3. **Assemble the Salad:**
+   - Top the mixed greens with the grilled chicken breast.
+   - Drizzle the lemon vinaigrette over the salad.
+   - Toss gently to combine.
+
+#### **Nutrition Facts (Approximate):**
+- Calories: ~250
+- Protein: 25g
+- Carbohydrates: 15g
+- Fat: 12g
+- Fiber: 3g
+
+This recipe is both tasty and nutritious, making it a great option for a low-calorie lunch. If you need any further adjustments or have any dietary restrictions, feel free to let me know!

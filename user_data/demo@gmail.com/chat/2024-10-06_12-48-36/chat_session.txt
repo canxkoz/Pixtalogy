@@ -1,0 +1,56 @@
+User: I have obesity and I need to eat lunch. I also have lactose intolerance, What should I eat for lunch. Provide a recipie.
+LLM: Given your dietary needs, I'll provide a recipe that is not only low in calories but also lactose-free and suitable for someone managing obesity. Here’s a delicious and healthy lunch option:
+
+### **Mediterranean Chickpea Salad**
+
+#### **Ingredients:**
+
+- **Salad:**
+  - 1 can (15 oz) chickpeas, drained and rinsed
+  - 1 small cucumber, diced
+  - 1 small red bell pepper, diced
+  - 1/2 small red onion, finely chopped
+  - 1/2 cup Kalamata olives, pitted and halved
+  - 1 cup cherry tomatoes, halved
+  - 1/4 cup fresh parsley, chopped
+  - 2 tbsp fresh mint, chopped
+
+- **Dressing:**
+  - 2 tbsp olive oil
+  - 2 tbsp lemon juice
+  - 1 clove garlic, minced
+  - 1 tsp Dijon mustard
+  - 1 tsp honey or maple syrup
+  - Salt and pepper to taste
+
+#### **Instructions:**
+
+1. **Prepare the Dressing:**
+   - In a small bowl, whisk together the olive oil, lemon juice, minced garlic, Dijon mustard, honey or maple syrup, salt, and pepper. Set aside.
+
+2. **Prepare the Salad:**
+   - In a large bowl, combine the chickpeas, diced cucumber, diced red bell pepper, chopped red onion, Kalamata olives, halved cherry tomatoes, chopped parsley, and chopped mint.
+
+3. **Assemble the Salad:**
+   - Pour the dressing over the salad.
+   - Gently toss to combine, ensuring all ingredients are well coated with the dressing.
+
+#### **Nutrition Facts (Approximate):**
+- Calories: ~350
+- Protein: 13g
+- Carbohydrates: 45g
+- Fat: 14g
+- Fiber: 12g
+
+### **Why This Recipe is Suitable:**
+1. **Low Calorie:** This salad is packed with fiber and nutrients but keeps the calories in check.
+2. **Lactose-Free:** It avoids dairy products, making it suitable for lactose intolerance.
+3. **High in Fiber:** Chickpeas and vegetables provide plenty of fiber, which aids in satiety and digestion.
+4. **Balanced Macronutrients:** The combination of protein, carbohydrates, and healthy fats helps maintain stable blood sugar levels and keeps you full for longer.
+
+### **Additional Tips:**
+- You can add grilled chicken or tofu for extra protein if desired.
+- For added crunch, include some roasted chickpeas or other low-calorie roasted vegetables.
+- Keep portion sizes in mind to maintain a balanced diet.
+
+This Mediterranean Chickpea Salad is not only delicious but also supports your dietary needs and weight management goals. Enjoy your meal!

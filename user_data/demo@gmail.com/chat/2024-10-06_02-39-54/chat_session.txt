@@ -1,0 +1,28 @@
+User: hello
+LLM: Thank you for your message. I understand you want assistance from a radiologist, but I'll need more specific information to provide accurate help. Please provide details such as patient information, symptoms, imaging reports, laboratory results, or physical exam findings.
+
+To get started, you can use the following template:
+
+### Patient Information:
+- **Age:**
+- **Gender:**
+- **Medical History:**
+
+### Symptoms:
+- **Duration of Symptoms:**
+- **Nature of Symptoms:**
+- **Associated Symptoms:**
+
+### Imaging Reports:
+- **Type of Imaging:**
+- **Key Findings:**
+
+### Laboratory Results:
+- **Blood Tests (e.g., CBC, CRP, ESR):**
+- **Urine Tests:**
+- **Biopsy Results:**
+
+### Physical Exam Findings:
+- **Abnormalities Detected:**
+
+Please provide as much detail as possible, and I will do my best to assist you with your request.

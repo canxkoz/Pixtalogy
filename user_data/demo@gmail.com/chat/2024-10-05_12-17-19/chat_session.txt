@@ -1,0 +1,6 @@
+User: give me name of one medicine for my situation that is easily available
+LLM: To provide you with an appropriate medication, I need more information about your specific situation or symptoms. However, I can give you a general example of a commonly available medication that might help with various conditions.
+
+For instance, if you have a headache, you might consider **Paracetamol (Tylenol)** or **Ibuprofen (Advil)**. Both are widely available over-the-counter medications that can help alleviate pain and reduce fever.
+
+If you are dealing with a specific health issue, please provide more details so that I can give a more accurate recommendation. Always consult with a healthcare professional before starting any new medication.

@@ -1,0 +1,25 @@
+User: hello
+LLM: I'm here to help, but I need more specific information to provide accurate assistance. Based on your message "hello," it seems you may not have provided the necessary details for a medical consultation. If you'd like me to assist you as a radiologist, please provide the following information:
+
+1. **Patient Information:**
+   - Age
+   - Gender
+   - Medical history (relevant diseases, surgeries, medications)
+
+2. **Symptoms:**
+   - Duration and nature of symptoms
+   - Any associated symptoms (e.g., fever, pain, nausea)
+
+3. **Imaging Reports:**
+   - Type of imaging performed (e.g., X-ray, MRI, CT scan)
+   - Key findings from the radiologist's report
+
+4. **Laboratory Results:**
+   - Blood tests (e.g., CBC, CRP, ESR)
+   - Urine tests
+   - Biopsy results
+
+5. **Physical Exam Findings:**
+   - Any abnormalities detected during a physical examination
+
+With these details, I can offer a more accurate diagnosis or assistance.

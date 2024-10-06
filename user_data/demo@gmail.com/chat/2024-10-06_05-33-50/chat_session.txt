@@ -1,0 +1,6 @@
+User: describe the patient's condituiotion based on the above image
+LLM: I'm unable to view images directly, but I can certainly help you analyze and describe a patient's condition based on common findings in radiology. If you can provide a description of the image or specify the modality (e.g., X-ray, CT scan, MRI, ultrasound), I can give you more detailed guidance.
+
+For instance, if it's a chest X-ray, I might describe findings related to the lungs, heart, bones, and other structures. If it's a CT scan of the abdomen, I could discuss the appearance of organs like the liver, kidneys, and vascular structures.
+
+Please provide more details or describe the key features of the image, and I'll do my best to assist you!

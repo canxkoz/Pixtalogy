@@ -1,0 +1,20 @@
+User: dignose the patient
+LLM: Sure, I'd be happy to help, but I'll need more information to provide an accurate diagnosis. Please provide the following details:
+
+1. **Patient's symptoms and medical history**:
+   - Age, sex, and relevant past medical history (e.g., chronic diseases, allergies, surgeries).
+   - Current symptoms, including duration, severity, and any alleviating or exacerbating factors.
+   - Any recent illnesses or injuries.
+
+2. **Clinical context**:
+   - The reason for the imaging study (e.g., abdominal pain, shortness of breath, etc.).
+   - Physical exam findings, if available.
+
+3. **Imaging findings**:
+   - A description of any abnormalities seen on the imaging study, including location, size, shape, and appearance.
+   - Any relevant measurements or quantitative data (e.g., Hounsfield units, lung volumes, etc.).
+
+4. **Laboratory test results**:
+   - Relevant blood test results, such as complete blood count (CBC), comprehensive metabolic panel (CMP), or other specific tests.
+
+Once I have this information, I can provide a more accurate assessment and suggest a possible diagnosis.

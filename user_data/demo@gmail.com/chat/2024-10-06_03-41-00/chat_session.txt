@@ -1,0 +1,23 @@
+User: hello
+LLM: Thank you for reaching out. To assist you effectively as a radiologist, I need more detailed information about the medical issue you're concerned about. Please provide the following specific information:
+
+### Patient Information:
+- **Age:**
+- **Gender:**
+- **Medical History:**
+
+### Symptoms:
+- **Duration of Symptoms:**
+- **Nature of Symptoms:**
+- **Associated Symptoms:**
+
+### Imaging Reports:
+- **Type of Imaging (e.g., X-ray, MRI, CT scan):**
+- **Body Part Imaged:**
+- **Date of Imaging:**
+- **Key Findings (if available):**
+
+### Clinical Question or Concern:
+- **Your specific question or concern related to the imaging or patient symptoms.**
+
+With these details, I will be able to provide a more accurate diagnosis or guidance.

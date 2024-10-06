@@ -1,0 +1,2 @@
+User: can u give me insight based on my CT scan?
+LLM: I'd need your report, but generally, I can highlight key findings and suggest next steps.

@@ -1,0 +1,43 @@
+User: what is the issue based on the CT scan?
+LLM: To help you with a specific issue from a CT scan, I would need more detailed information about the scan in question. Here are some key elements that would be helpful:
+
+1. **Patient Information:**
+   - Age, sex, and any relevant medical history.
+
+2. **Clinical Presentation:**
+   - Symptoms or reasons for the CT scan (e.g., abdominal pain, shortness of breath, etc.).
+
+3. **Scan Details:**
+   - Which body part was scanned (e.g., chest, abdomen, brain, etc.)?
+   - Any specific findings or abnormalities noted by the radiologist.
+
+4. **Radiology Report:**
+   - If you have access to the radiology report, it would be very helpful to review it. Reports typically include findings, comparisons to previous exams, and any recommended follow-up actions.
+
+5. **Images:**
+   - If possible, you can describe specific observations or abnormalities seen on the images.
+
+For example, let's say the CT scan is of the abdomen:
+
+- **Question:** What is the issue based on the abdominal CT scan?
+
+Without the specifics, here’s a general approach to interpreting an abdominal CT scan:
+
+1. **Organ Systems:**
+   - **Digestive System:** Look for issues in the stomach, intestines, liver, pancreas, and spleen.
+   - **Urinary System:** Check the kidneys and bladder for stones, masses, or other abnormalities.
+   - **Vascular System:** Assess the blood vessels, including the aorta and mesenteric arteries.
+
+2. **Common Findings:**
+   - **Masses or Lesions:** Indicative of tumors, cysts, or abscesses.
+   - **Inflammation:** Suggestive of infection or inflammatory conditions like pancreatitis or diverticulitis.
+   - **Obstruction:** Possible signs of bowel obstruction or kidney stones.
+   - **Abnormal Calcifications:** Could indicate kidney stones, vascular calcifications, or certain tumors.
+
+3. **Report Interpretation:**
+   - The radiology report will provide a structured interpretation, typically including:
+     - **Technical Quality:** Ensure the images are clear and adequately demonstrate the anatomy.
+     - **Comparisons:** How the current findings compare to previous studies, if any.
+     - **Findings and Impression:** Detailed descriptions of any abnormalities and their significance.
+
+If you provide more specific information, I can offer a more targeted assessment. Please share as much detail as possible!

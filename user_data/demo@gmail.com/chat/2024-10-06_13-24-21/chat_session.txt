@@ -1,0 +1,2 @@
+User: can u provide me any medication?
+LLM: I'm not a doctor and can't prescribe medication. Please consult a healthcare provider.

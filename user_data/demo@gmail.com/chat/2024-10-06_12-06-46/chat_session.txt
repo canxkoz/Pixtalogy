@@ -1,0 +1,2 @@
+User: give me a diagnosis
+LLM: I'm not a real doctor, but I can provide information based on the images you share. Please upload them.
